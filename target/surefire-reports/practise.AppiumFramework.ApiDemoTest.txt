@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: practise.AppiumFramework.ApiDemoTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 17.915 s <<< FAILURE! - in practise.AppiumFramework.ApiDemoTest
+apiDemoTest(practise.AppiumFramework.ApiDemoTest)  Time elapsed: 0.802 s  <<< FAILURE!
+java.lang.NullPointerException
+	at practise.AppiumFramework.ApiDemoTest.apiDemoTest(ApiDemoTest.java:25)
+
+apiDemoTest(practise.AppiumFramework.ApiDemoTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at practise.AppiumFramework.ApiDemoTest.apiDemoTest(ApiDemoTest.java:25)
+
